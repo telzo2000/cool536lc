@@ -8,6 +8,10 @@ cool536lc is small keyboard.
 
 # firmware
 
+https://github.com/telzo2000/cool536lc/tree/main/firmware
+
+<br>
+
 # buildguide
 
 comming soon.
