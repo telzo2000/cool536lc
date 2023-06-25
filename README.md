@@ -6,9 +6,9 @@ cool536lc is small keyboard.
 
 <br>
 
-#firmware
+# firmware
 
-#buildguide
+# buildguide
 
 comming soon.
 <br>
