@@ -1,5 +1,7 @@
 # cool536lc
 
+![](img/img00001.jpg)
+
 <br>
 cool536lc is small keyboard.
 
