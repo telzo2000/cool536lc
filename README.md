@@ -3,7 +3,9 @@
 ![](img/img00001.jpg)
 
 <br>
-cool536lc is small keyboard.
+cool536lc is small keyboard.<br>
+This keyboard has coiumns layout.<br>
+Cool536lc's 36 keys can do it all.<br>
 
 
 <br>
