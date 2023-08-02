@@ -16,6 +16,7 @@ https://github.com/telzo2000/cool536lc/tree/main/firmware
 
 # buildguide
 
-comming soon.
+https://github.com/telzo2000/cool536lc/blob/main/buildguide_for_cool536lc.md
+
 <br>
 
