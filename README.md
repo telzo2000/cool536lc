@@ -5,7 +5,7 @@
 <br>
 cool536lc is small keyboard.<br>
 This keyboard has coiumns layout.<br>
-Cool536lc's 36 keys can do it all.<br>
+cool536lc's 36 keys can do it all.<br>
 
 
 <br>
