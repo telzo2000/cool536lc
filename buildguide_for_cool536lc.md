@@ -151,6 +151,10 @@ Place the hole in the switch plate on the O-ring. And it is completed by coverin
 <br>
 スイッチプレートの穴をO-ringに載せます。そして、トップケースを被せて完成です。
 <br>
+<br><br>
+Note: If you are concerned about the thumb cluster key sinking, it is a good idea to install a 5mm thick sponge inside.
+<br>
+注意：もし、サムクラスタのキーの沈みが気になる場合、内部に5mm厚のスポンジを装着するとよいでしょう。
 
 
 Welcome to the world of 36 keys.
