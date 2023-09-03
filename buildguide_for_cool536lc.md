@@ -14,6 +14,13 @@
 
 <br>
 
+Note! When selecting layers in Remap, we have confirmed that depending on the position of the mouse cursor, you may not be able to move the layer even if you click. If you move the mouse cursor slightly to the left of the layer number, as shown in the image, it will respond more easily.
+<br>
+注意！　Remapでのレイヤー選択の際、マウスカーソルの位置によってはクリックしてもレイヤー移動ができない現象が確認できています。画像のように、レイヤー番号のやや左側付近にマウスカーソルを移動すると、反応しやすいです。
+<br>
+
+![](img/img00002.png)
+
 ## Build 1
 
 ### 1 Diode soldering
