@@ -87,9 +87,9 @@ Solder the switch sockets on the back side.
 
 ### 3　Soldering RP-2040Zero  
 
-The side on which the RP-2040Zero components are mounted is the front side, and the opposite side is the back side.
+The side on which components such as the boot button and reset button of RP-2040Zero are mounted is the front side, and the other side is the back side.
 <br>
-RP-2040Zeroの部品実装されている面を表面とし、反対側を裏面とします。
+RP-2040Zeroのbootボタンやresetボタンなど部品実装されている面を表面とし、反対側を裏面とします。
 <br>
 Place the back side of the PCB and the back side of the RP-2040Zero facing each other and solder the respective terminals.
 <br>
@@ -136,9 +136,9 @@ I will explain using a case printed by stereolithography of black resin ordered 
 JLCPCBに発注したブラックレジンの光造形で印刷されたケースを使って説明します。家庭用AnkemakeM5で印刷したケースでも作業の手順は、基本的に同じです。
 <br>
 <br>
-Fix the magnets to the five dents inside the case with an adhesive or the like. There are 4 in the top case and 4 in the bottom case for a total of 8.Please pay attention to the polarity of the magnet. Make sure the top case and bottom case are magnetically attached.
+Fix the [magnets](https://www.amazon.co.jp/gp/product/B09B7BSXC4/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1) to the five dents inside the case with an adhesive or the like. There are 4 in the top case and 4 in the bottom case for a total of 8.Please pay attention to the polarity of the magnet. Make sure the top case and bottom case are magnetically attached.
 <br>
-ケースの内側にある４つの凹みに磁石を接着剤などで固定します。トップケースに４箇所、ボトムケースに４箇所の合計８箇所です。
+ケースの内側にある４つの凹みに[磁石](https://www.amazon.co.jp/gp/product/B09B7BSXC4/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)を接着剤などで固定します。トップケースに４箇所、ボトムケースに４箇所の合計８箇所です。
 極性に注意してください。トップケースとボトムケースが磁力で着くようにしてください。
 <br>
 ![](img/img00019.jpg)
