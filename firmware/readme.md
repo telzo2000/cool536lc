@@ -17,3 +17,5 @@ Compatible with [VIAL](https://get.vial.today/).
 [VIAL](https://get.vial.today/)に対応。
 <br>
 File name: cool536lc_vial.uf2
+<br>
+20230912　The version of qmk_Firmware now corresponds to 0.22.
