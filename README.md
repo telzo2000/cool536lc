@@ -40,3 +40,8 @@ In addition, you will need a USB cable, keycaps, etc.
 <br>
 この他に、USBケーブル、キーキャップ等が必要です。
 <br>
+
+## License
+
+
+It is MIT licensed, but anyone calling themselves ProtieusKeebs is prohibited from using this keyboard in any way.
