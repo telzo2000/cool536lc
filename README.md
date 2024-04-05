@@ -44,4 +44,4 @@ In addition, you will need a USB cable, keycaps, etc.
 ## License
 
 
-MIT licensed
+MIT license,However, I do not allow ProtieusKeebs to use the data of cool536lc and other keyboards I have designed, because I feel he has no respect for the designers.
