@@ -44,7 +44,4 @@ In addition, you will need a USB cable, keycaps, etc.
 ## License
 
 
-It is MIT licensed
-
-<U>, but anyone calling themselves ProtieusKeebs is prohibited from using this keyboard in any way.
-</U>
+MIT licensed
